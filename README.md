@@ -4,15 +4,16 @@
 Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and other peripheral devices. 
 It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-commerce (AtliQ e store), Retail E-commerce (Amazon, Flipkart etc.)] and Brick & Mortar stores [through retailers, distributors and direct stores].
 
-## Sales Analytics Reports :
+## Sales Analytics Reports
 
-- **Use of Reports:**
+- **Use of Reports**
      - Decide on Discounts
      - Negotiate retailer/distributor margins
      - Team management
      - Offer bonuses (if sales exceed targets)
  
-- **Main KPI/Metric:** Sales/Revenue.
+- **Main KPI/Metric**
+     - Sales/Revenue.
   
 - **Report List** 
 
@@ -21,7 +22,7 @@ It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-com
    - **Insights**: "AQ Mx NB" and "AQ Smash 2" saw the highest increase.
 
 2. **[Division Sales Report]()**
-   - **Description**: AtliQ's products can be classified into 3 divisions - N&S (Networking and Storage), P&A (Peripherals and Accesories) and PC (Desktop and Notebook). This report gives the comparison between the 3 divisions across 2020 ad 2021. 
+   - **Description**: AtliQ's products can be classified into 3 divisions - N&S (Networking and Storage), P&A (Peripherals and Accesories) and PC (Desktop and Notebook). This report gives the comparison between the 3 divisions across 2020 and 2021. 
    - **Insights**:
      - PC division saw a ~300% increase in sales from 2020.
      - P&A division saw a ~200% increase in sales from 2020.
@@ -39,14 +40,14 @@ It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-com
    - **Description**: Top 5 markets for Atliq in 2021. 
    - **Insights**: India was the best performing market with net sales of $161M.
 
-## Finance Analytics Reports:
+## Finance Analytics Reports
 
-- **Use of Reports:**
+- **Use of Reports**
    - Assess Business health
    - Highlight financial performance to investors or stakeholders
    - Tax Filing
 
-- **Main KPI/Metric:**
+- **Main KPI/Metric**
    - Net sales
    - COGS - Manufacturing Cost + Freight Cost + others (Depreciation, Marketing/Sales expenses, Warehousing etc.)
    - Gross Margin
@@ -62,14 +63,14 @@ It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-com
    - **Description**: GM% for different sub zones across quarters and years.
    - **Insights**: 2021 saw a significant decrease in margins across all sub-zones. It can be attributed to COVID-19 effects. Also across quarters, variation in percentages is small for all regions. 
    
-## Technical Skills :
+## Technical Skills
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
 - [x]	Ability to derive fiscal months and quarters.
 - [x]	Establishing data model relationships using Power Pivot.
 - [x]	Utilizing DAX to create calculated columns.
 
-## Soft Skills:
+## Soft Skills
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Developing a systematic approach to devising a report building plan.
