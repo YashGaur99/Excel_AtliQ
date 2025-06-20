@@ -17,26 +17,26 @@ It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-com
   
 - **Report List** 
 
-1. **[Top 10 Products]()**
+1. **[Top 10 Products](https://github.com/YashGaur99/Excel_AtliQ/blob/main/Top%2010%20Products.pdf)**
    - **Description**: Top 10 products with according to sales increase between 2020 and 2021.
    - **Insights**: "AQ Mx NB" and "AQ Smash 2" saw the highest increase.
 
-2. **[Division Sales Report]()**
+2. **[Division Sales Report](https://github.com/YashGaur99/Excel_AtliQ/blob/main/Division%20Sales%20Report.pdf)**
    - **Description**: AtliQ's products can be classified into 3 divisions - N&S (Networking and Storage), P&A (Peripherals and Accesories) and PC (Desktop and Notebook). This report gives the comparison between the 3 divisions across 2020 and 2021. 
    - **Insights**:
      - PC division saw a ~300% increase in sales from 2020.
      - P&A division saw a ~200% increase in sales from 2020.
      - N&S division saw a ~85% increase in sales from 2020.
     
-3. **[Top 5 & Bottom 5 Products]()**
+3. **[Top 5 & Bottom 5 Products](https://github.com/YashGaur99/Excel_AtliQ/blob/main/Top%205%20%26%20Bottom%205%20Products.pdf)**
    - **Description**: Top 5 and Bottom 5 products of 2021 according to Qty.
    - **Insights**: "AQ Master wired x1 Ms" was sold the most and "AQ HOME Allin1 Gen 2" sold the least.
 
-4. **[New Products]()**
+4. **[New Products](https://github.com/YashGaur99/Excel_AtliQ/blob/main/New%20Products.pdf)**
    - **Description**: List of new products that got introduced in 2021 along with their qty. 
    - **Insights**: "AQ MB Lito 2" was the rockstar newbie with net sales closing $22M USD.
 
-5. **[Top 5 Countries]()**
+5. **[Top 5 Countries](https://github.com/YashGaur99/Excel_AtliQ/blob/main/Top%205%20countries.pdf)**
    - **Description**: Top 5 markets for Atliq in 2021. 
    - **Insights**: India was the best performing market with net sales of $161M.
 
@@ -55,11 +55,11 @@ It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-com
 
 - **Report List**
 
-1. **P&L for Markets**
+1. **[P&L for Markets](https://github.com/YashGaur99/Excel_AtliQ/blob/main/P%20%26%20L%20for%20Markets.pdf)**
    - **Description**: P&L metrices for various markets for FY 2021 (Sep - Aug).
    - **Insights**:New Zealand, Japan and UK had the best gross margin percentages close to ~50%. Germany had the least GM% at 26.2%.
 
-2. **GM% by Quarters (sub_zone)**
+2. **[GM% by Quarters (sub_zone)](https://github.com/YashGaur99/Excel_AtliQ/blob/main/GM%25%20by%20Quarters%20(sub_zone).pdf)**
    - **Description**: GM% for different sub zones across quarters and years.
    - **Insights**: 2021 saw a significant decrease in margins across all sub-zones. It can be attributed to COVID-19 effects. Also across quarters, variation in percentages is small for all regions. 
    
