@@ -16,7 +16,7 @@ It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-com
   
 - **Report List** 
 
-1. **[Top 10 Products by sales increase]()**
+1. **[Top 10 Products]()**
    - **Description**: Top 10 products with according to sales increase between 2020 and 2021.
    - **Insights**: "AQ Mx NB" and "AQ Smash 2" saw the highest increase.
 
@@ -27,7 +27,7 @@ It uses mainly 2 platforms and 3 channels for selling - E-commerce [Direct E-com
      - P&A division saw a ~200% increase in sales from 2020.
      - N&S division saw a ~85% increase in sales from 2020.
     
-3. **[Top 5 / Bottom 5 Products]()**
+3. **[Top 5 & Bottom 5 Products]()**
    - **Description**: Top 5 and Bottom 5 products of 2021 according to Qty.
    - **Insights**: "AQ Master wired x1 Ms" was sold the most and "AQ HOME Allin1 Gen 2" sold the least.
 
